@@ -1,0 +1,14 @@
+$RECYCLE.BIN
+98522094
+AI
+Az Memari
+CAD
+English Annotation
+OS
+Process
+Resume
+Signal
+Thumbs.db
+Visual Studio Code.app
+hw2_fype
+rizpar

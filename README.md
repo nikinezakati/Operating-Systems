@@ -1,5 +1,5 @@
 # OS
-Operation Systems Course - Fall 2021
+Operating Systems Course - Fall 2021
 
 In this course I implemented questions like implementing Threads, using Fork and ... in C. 
 
